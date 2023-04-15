@@ -7,9 +7,7 @@ To get started with the project, you need to have R and RStudio installed on you
 # Running the Analysis
 
 The project's code is organized into R scripts, each focusing on a specific aspect of data analysis or visualization. To run the analysis, open the R script in RStudio and run each code chunk in sequence. The analysis includes several statistical measures such as mean, median, and standard deviation to understand the distribution of test scores and study time. The data is also visualized using scatter plots and histograms to explore the relationship between test scores and study time.
-#Contributing
 
-If you would like to contribute to the project, please feel free to submit a pull request with your changes.
 # License
 
 This project is licensed under the MIT License.
